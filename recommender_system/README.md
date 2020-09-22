@@ -58,7 +58,7 @@ help(Product_Recommender)
 Product_Recommender(userId) like 
 product=Product_Recommender("user1")
 
-product.report: is a json API report provids you a comperhensive vision 
+product.report: is a JSON API file provides a comprehensive vision 
 
 
 
