@@ -14,10 +14,12 @@ Thank you.
 Babak.EA
 
 
-
 source code : github
+
 https://github.com/BabakEA/witcher
 
+https://pypi.org/user/B4b4_k.Ea/
 
-PyPi : 
-pip install witcher 
+PyPi : https://pypi.org/project/witcher/0.0.1/
+pip install witcher
+
