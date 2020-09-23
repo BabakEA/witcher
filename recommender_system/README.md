@@ -16,7 +16,7 @@ Babak.EA
 
 How to run : 
 
-<b> using Jupyter notbook </b> 
+<b> using Jupyter notebook </b> 
 
 import witcher
 
