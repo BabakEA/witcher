@@ -16,7 +16,6 @@ Babak.EA
 
 source code : github
 
-https://github.com/BabakEA/witcher
 
 https://pypi.org/user/B4b4_k.Ea/
 
