@@ -19,10 +19,3 @@ Babak.EA
 
 
 
-source code : github
-
-https://github.com/BabakEA/witcher
-
-
-PyPi : https://pypi.org/project/witcher/0.0.1/
-pip install witcher
