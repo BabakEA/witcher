@@ -9,7 +9,7 @@ Magical data processing, predictive, and deep learning models will be joining wi
 
 hope you will enjoy using the witcher library
 
-Thank you. 
+```diff + Thank you ```diff . 
 
 Babak.EA
 
