@@ -6,10 +6,10 @@ Anyone with basic programming knowledge and ```no math and statistic background`
 
 ### steps to use : 
 1.  install the witcher
-    *.  pip install witcher
+    -  pip install witcher
 2.  Import the Portfolio advisor
-    *.  from witcher import Portfolio_Advisor
+    -  from witcher import Portfolio_Advisor
 3.  call the Magical function
-    *.  Portfolio=Portfolio_Advisor.Witcher_Portfolio()
+    -  Portfolio=Portfolio_Advisor.Witcher_Portfolio()
 
 Bam: that's all, there is no step 4 ! how cool is it?
