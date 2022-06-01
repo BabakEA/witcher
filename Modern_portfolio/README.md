@@ -15,6 +15,8 @@ Anyone with basic programming knowledge and ```no math and statistic background`
 Bam: that's all, there is no step 4 ! how cool is it?
 
 <hr>
+<a href="https://www.youtube.com/watch?v=Bo4tfIt-8H0">Link to youtube </a>   
+    
 <hr>
     
 
