@@ -18,6 +18,4 @@ Bam: that's all, there is no step 4 ! how cool is it?
 <hr>
     
 
-<div align="center">
-<iframe width="560" height="315" src="https://github.com/BabakEA/witcher/blob/master/Modern_portfolio/Witcher_portfolio_advisor.mp4"  title="Witcher Portfolio advisor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe></div>
+![Witcher_Portfolio_advisor](https://github.com/BabakEA/witcher/blob/master/Modern_portfolio/Witcher_portfolio_advisor.mp4)
